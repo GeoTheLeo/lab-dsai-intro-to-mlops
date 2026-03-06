@@ -21,3 +21,18 @@ Read the instructions for each cell and provide your answers. Make sure to test 
 <br>
 
 **Good luck!**
+
+BONUS COMPLETED!
+## Bonus: Running the notebook on AWS EC2
+
+The notebook was executed on a remote AWS EC2 instance.
+
+Workflow:
+
+* Launch EC2 instance
+* SSH connection
+* Install dependencies
+* Upload dataset and notebook
+* Run Jupyter Notebook on port 8888
+* Access notebook via EC2 public IP
+
